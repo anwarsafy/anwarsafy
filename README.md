@@ -66,6 +66,6 @@ The skill is backed by code I actually published.
 
 A product, an agent skill, or a Flutter codebase that needs a stricter architecture.
 
-**[anwr@olu-it.com](mailto:anwr@olu-it.com)** · **[Medium](https://medium.com/@anwarsafy15)**
+**[anwr@olu-it.com](mailto:anwr@olu-it.com)** · **[LinkedIn](https://www.linkedin.com/in/anwar-safy-81243521a)** · **[Medium](https://medium.com/@anwarsafy15)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080c,55:9a3412,100:ff6a2a&height=130&section=footer&animation=twinkling" width="100%" alt="" />
