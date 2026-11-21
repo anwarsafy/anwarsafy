@@ -2,7 +2,7 @@
 
 <img src="assets/banner.gif" width="100%" alt="Anwar Safy, Flutter engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=FF6A2A&center=true&vCenter=true&width=920&height=52&lines=Flutter+engineer.+Mobile%2C+web%2C+and+the+system+behind+both.;HR%2C+booking%2C+fitness%2C+NFC%2C+tasks.+Shipped+products.;Firebase+%C2%B7+BLoC+%C2%B7+Clean+Architecture+%C2%B7+Arabic+and+English.;Then+I+make+the+agent+build+the+same+way." alt="Flutter engineer. Mobile, web, and the system behind both." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=FF6A2A&center=true&vCenter=true&width=920&height=52&lines=Flutter+engineer.+Mobile%2C+web%2C+and+the+system+behind+both.;Olu+HR.+Employee+app%2C+admin+web%2C+and+login+approval.;Firebase+%C2%B7+BLoC+%C2%B7+Clean+Architecture+%C2%B7+Arabic+and+English.;Open+source+packages.+Then+the+agent+skill." alt="Flutter engineer. Mobile, web, and the system behind both." />
 
 **Anwar Safy** ships Flutter products the whole way through. The phone app, the web admin, and the Firebase behind both. Not a screen on top of someone else's backend.
 
@@ -10,24 +10,9 @@
 
 ## What I ship
 
-Real products, each with the member app and the panel that runs it.
+**Olu HR.** The employee app and the admin web. Attendance, documents, jobs, and internal comms, plus a separate app that approves the login with OTP.
 
-| Product | What it is |
-| --- | --- |
-| **Yaqid** | HR system. Attendance, documents, jobs, internal comms, an admin web, and a separate app that approves employee logins with OTP. |
-| **Moaed** | Wedding and majlis booking across Saudi Arabia, plus the owner panel for halls, clients, and notifications. |
-| **Azmenk** | Wedding services in Oman. Couples book vendors. Vendors run bookings from their own panel. |
-| **Liaqa Live** | Fitness membership. Phone OTP, daily workouts, subscriptions, and a CMS for episodes, members, coupons, and ads. |
-| **AfiTech** | Health platform admin. Users, specialists, restaurants, meals, bookings, challenges, and subscriptions. |
-| **Jumaa** | Islamic companion. Prayer times and content on mobile, with an admin for messages, ads, and analytics. |
-| **Manseb** | Hiring platform connecting people to companies. |
-| **Manami** | Dream-interpretation product, and the admin that moderates dreams, requests, and notifications. |
-| **Wayza** | Events and trips. Bookings, payments, and the organizer panel. |
-| **Tasks** | A Trello-scale product on Flutter for Android, iOS, and web, with auth, storage, and push. |
-| **NFC readers** | Read and write tags, with Apple Wallet passes. English, Arabic, and Spanish. |
-| **Forms** | Multi-tenant form builder. Admins design the form, marketers collect answers live. |
-
-Same habits on all of them: **BLoC**, **Clean Architecture**, **Firebase** (Auth, Firestore, Functions, FCM, Storage), and **Arabic plus English**, including RTL, from the first screen.
+**BLoC**, **Clean Architecture**, **Firebase** (Auth, Firestore, Functions, FCM, Storage), and **Arabic plus English**, including RTL, from the first screen.
 
 ## Open source
 
@@ -36,7 +21,7 @@ The pieces I got tired of rewriting.
 | Package | What it does |
 | --- | --- |
 | **[Flutter Firebase Starter](https://github.com/anwarsafy/starter)** | Production starter. Email, Google, Apple, and phone auth, FCM, Firestore profiles, route guards, English and Arabic. |
-| **[dynamic_form_fields](https://pub.dev/packages/dynamic_form_fields)** | Drag-and-drop form builder with validation. The same idea as the form product, published. |
+| **[dynamic_form_fields](https://pub.dev/packages/dynamic_form_fields)** | Drag-and-drop form builder with validation. |
 | **[http_api_handler](https://pub.dev/packages/http_api_handler)** | HTTP client with logging, errors, auth tokens, and file transfer. |
 | **[firebase_excel_export](https://pub.dev/packages/firebase_excel_export)** | Firestore collections to Excel, for Flutter web. |
 | **[xdialog](https://pub.dev/packages/xdialog)** | Animated dialogs with more than one action. |
