@@ -2,17 +2,11 @@
 
 <img src="assets/banner.gif" width="100%" alt="Anwar Safy, Flutter engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=FF6A2A&center=true&vCenter=true&width=920&height=52&lines=Flutter+engineer.+Mobile%2C+web%2C+and+the+system+behind+both.;Olu+HR.+Employee+app%2C+admin+web%2C+and+login+approval.;Firebase+%C2%B7+BLoC+%C2%B7+Clean+Architecture+%C2%B7+Arabic+and+English.;Open+source+packages.+Then+the+agent+skill." alt="Flutter engineer. Mobile, web, and the system behind both." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=FF6A2A&center=true&vCenter=true&width=920&height=52&lines=I+turn+any+idea+into+something+real.;A+product+people+can+open.;Flutter.+Mobile%2C+web%2C+and+Firebase.;Open+source+packages.+Then+the+agent+skill." alt="I turn any idea into something real." />
 
-**Anwar Safy** ships Flutter products the whole way through. The phone app, the web admin, and the Firebase behind both. Not a screen on top of someone else's backend.
+**Anwar Safy** turns any idea into something real. A product that exists and people can open.
 
 </div>
-
-## What I ship
-
-**Olu HR.** The employee app and the admin web. Attendance, documents, jobs, and internal comms, plus a separate app that approves the login with OTP.
-
-**BLoC**, **Clean Architecture**, **Firebase** (Auth, Firestore, Functions, FCM, Storage), and **Arabic plus English**, including RTL, from the first screen.
 
 ## Open source
 
